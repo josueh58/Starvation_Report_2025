@@ -1,0 +1,3 @@
+🔹Walleye Mean Relative Weight (Wr) Trend Summary
+
+This graph displays the average Wr of Walleye from 2014 to 2025, illustrating year-to-year fluctuations in body condition. The peak in 2019 suggests excellent forage conditions, while the drop in 2022 points to potential prey scarcity or increased competition. Recent years (2023–2025) show moderate recovery, but Wr values remain under 90, indicating fair condition. If this trend continues, management strategies such as adjusting stocking rates, enhancing forage, or implementing harvest slot limits (e.g., 400–600 mm) may help improve overall body condition.

@@ -1,0 +1,3 @@
+🔹 CPUE Trend (2016–2025)
+
+This figure shows the Catch Per Unit Effort (CPUE) for Walleye over the past decade. CPUE is used as a proxy for abundance — increases may indicate population growth, improved recruitment, or sampling changes. The sharp rise in 2025 is noteworthy and should be explored further to identify potential drivers (e.g., environmental conditions, year-class strength, management actions).
