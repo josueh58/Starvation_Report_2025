@@ -1,3 +1,2 @@
-🔹 Proportional Size Distribution (PSD) Trends
 
-This line graph tracks PSD, PSD-P, and PSD-M over time. These metrics evaluate the proportion of fish within specific size categories, offering insight into population quality and size structure. High PSD-Q indicates a strong quality-size class, while fluctuations in PSD-P and PSD-M may signal changes in growth, mortality, or harvest pressure.
+This line graph tracks PSD, PSD-P, and PSD-M over time. These metrics evaluate the proportion of fish within specific size categories, offering insight into population quality and size structure. Recent increases in PSD-Q and PSD-P suggest improved size structure in 2024–2025. However, continued variability indicates sensitivity to forage conditions and harvest pressure.

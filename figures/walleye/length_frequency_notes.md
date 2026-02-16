@@ -1,3 +1,2 @@
-🔹 Length Frequency Distribution
 
-This histogram displays the distribution of total length (mm) for all Walleye captured. Vertical dashed lines correspond to PSD categories (S, Q, P, M, T) defined by AFS standards. Peaks in the 250–350 mm range indicate dominance of stock–quality individuals, with fewer fish in larger size classes. This helps visualize recruitment trends and population structure.
+This histogram displays the distribution of total length (mm) for all Walleye captured. Vertical dashed lines correspond to PSD categories (S, Q, P, M, T) defined by AFS standards. Length structure indicates high recruitment and survival of juvenile and stock-sized fish. However, limited progression into preferred and memorable size classes suggests growth constraints likely related to forage availability and density dependence.

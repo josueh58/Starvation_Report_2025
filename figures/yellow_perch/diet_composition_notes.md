@@ -1,0 +1,1 @@
+Diet composition indicates strong reliance on planktonic resources, particularly among smaller size classes. Limited piscivory suggests that most perch remain in juvenile or subadult stages.

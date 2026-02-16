@@ -1,0 +1,1 @@
+High and stable Wr values suggest adequate forage availability and low intraspecific competition.High and stable Wr values suggest adequate forage availability and low intraspecific competition.

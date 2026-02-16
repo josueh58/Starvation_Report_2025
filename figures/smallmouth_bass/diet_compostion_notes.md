@@ -1,0 +1,1 @@
+Diet composition reflects strong reliance on benthic invertebrates, particularly crayfish, indicating limited overlap with pelagic forage resources used by Walleye.

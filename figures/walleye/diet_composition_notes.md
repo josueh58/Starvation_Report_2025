@@ -1,3 +1,2 @@
-🔹 Walleye Diet Composition
 
-This pie chart summarizes the stomach contents of sampled Walleye. The diet composition reflects prey availability and feeding behavior during the sampling period. A high percentage of “Empty” stomachs could suggest sampling outside of peak feeding, poor prey access, or seasonal metabolic slowdown. Note the diversity of prey types, including Yellow Perch, Zooplankton, and Fish Parts.
+This pie chart summarizes the stomach contents of sampled Walleye. Diet data indicate forage limitation, particularly of soft-rayed fish prey. Reliance on zooplankton represents lower energetic efficiency and may contribute to suppressed growth and condition.

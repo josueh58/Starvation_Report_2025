@@ -1,0 +1,1 @@
+Consistently favorable Wr values suggest adequate forage availability for Yellow Perch and limited density-dependent stress relative to Walleye.

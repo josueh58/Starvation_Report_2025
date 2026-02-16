@@ -1,0 +1,1 @@
+The sharp increase in CPUE in 2025 suggests strong recent recruitment and improved juvenile survival. This may reflect favorable environmental conditions and reduced predation pressure during early life stages.

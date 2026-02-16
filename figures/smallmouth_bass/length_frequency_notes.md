@@ -1,0 +1,1 @@
+Size structure suggests consistent recruitment and survival across age classes, with adequate progression into preferred and memorable size classes.

@@ -1,0 +1,1 @@
+Length structure suggests high survival through juvenile stages, with most individuals reaching harvestable size. Limited progression into larger size classes may reflect predation pressure and intraspecific competition.

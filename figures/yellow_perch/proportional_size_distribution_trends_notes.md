@@ -1,0 +1,1 @@
+Variable PSD trends reflect fluctuating recruitment and survival rates. Recent increases in PSD-P suggest improving size structure, although long-term stability remains uncertain.

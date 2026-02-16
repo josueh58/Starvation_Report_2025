@@ -1,0 +1,1 @@
+Smallmouth Bass CPUE has remained relatively low but stable, with moderate increases observed in recent years.
