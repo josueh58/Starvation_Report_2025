@@ -1,0 +1,1 @@
+PSD metrics indicate a well-distributed size structure, with sustained representation across quality, preferred, and memorable classes. No evidence of growth suppression or size constraint was observed.
